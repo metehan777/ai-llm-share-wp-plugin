@@ -10,6 +10,8 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Add AI-powered share buttons (ChatGPT, Perplexity, Claude, Grok, Google AI) alongside traditional social share buttons to boost your content visibility in AI engines and increase LLM citations.
 
+Download the repo and just upload llm-share.zip to your plugins uploading screen.
+
 == Description ==
 
 **Transform your content visibility with the CiteMET method!**
