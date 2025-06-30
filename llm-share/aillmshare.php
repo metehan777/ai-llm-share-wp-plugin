@@ -3,7 +3,7 @@
  * Plugin Name: ChatGPT, Perplexity & Social Share Buttons
  * Description: Adds share buttons for ChatGPT, Perplexity, WhatsApp, LinkedIn, and X to single post pages.
  * Version: 1.5
- * Author: YourName
+ * Author: metehan.ai
  */
 
 add_filter('the_content', 'multi_share_buttons');
